@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.registracija {
+  width: 25%;
+  margin-left: 10%;
+  margin-bottom: 20px;
+}
+.redagavimaskm {
+  width: 20%;
+  margin: 10px;
+}
+
+.redagavimasd {
+  width: 80%;
+}
+
+.redagavimas-button {
+  margin: 10px;
+}
+
+.stats {
+  width: 20%;
+  margin-left: 50px;
+}
+
+.top {
+  margin-top: 20px;
+  display: flex;
+}
+
+.rusiavimas {
+  margin-left: 50px;
+}
+.mygtukas {
+  font-size: 20px;
+  padding: 5px;
+  margin: 10px;
+}
